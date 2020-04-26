@@ -13,5 +13,6 @@ In the root directory. After the modules have been installed you can run the pro
 	python facenet.py
 
 ## NOTE
-
+preferably use < python 3.7
+3.6 maybe?
 We are using the Windows 10 Text-to-Speech library to output our audio message, so if you want to run it on a different OS then you will have to replace the speech library used in facenet.py
