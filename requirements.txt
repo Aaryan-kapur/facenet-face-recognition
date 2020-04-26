@@ -1,4 +1,4 @@
-pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-.5 MB)1.8.0-py3-none-any.whl
+tensorflow 
 keras
 scipy
 scikit-learn
